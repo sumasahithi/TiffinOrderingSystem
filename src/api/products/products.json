@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Masala Dosa",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2021",
+    "description": "Masala Dosa with potato stuff.",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/Butter-Masala-Dosa.png"
+  },
+  {
+    "productId": 2,
+    "productName": "Allo Paratha",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2021",
+    "description": "Paratha with Aloo stuff",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/Aloo-Paratha.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Bread Omelette",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2021",
+    "description": "Bread with Omelette cooked",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/Bread-Omeletter.jpg"
+  },
+  {
+    "productId": 8,
+    "productName": "Sambar Vada",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2021",
+    "description": "Vada with Sambar",
+    "price": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/Sambar-Vada.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Sandwitch",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "description": "Sandwitch with cheese",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/Sandwitch.png"
+  }
+]
